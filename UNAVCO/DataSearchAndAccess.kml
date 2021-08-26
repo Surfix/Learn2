@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<kml xmlns="http://earth.google.com/kml/2.1"> 
+  <Document> 
+    <name>SSARA Federated Query</name> 
+    <description>This is KML generated with the Seamless SAR Archive (SSARA) federated querier</description> 
+    <Style id="yellowLine"><LineStyle><color>7f00FFFF</color><width>4</width></LineStyle><PolyStyle><color>7fffffff</color></PolyStyle></Style>
+    <Style id="redLine"><LineStyle><color>7f0000FF</color><width>4</width></LineStyle><PolyStyle><color>7fffffff</color></PolyStyle></Style>
+    <Style id="blueLine"><LineStyle><color>7fFF0000</color><width>4</width></LineStyle><PolyStyle><color>7fffffff</color></PolyStyle></Style>
+    <Style id="cyanLine"><LineStyle><color>7fFFFF00</color><width>4</width></LineStyle><PolyStyle><color>7fffffff</color></PolyStyle></Style>
+    <Style id="purpleLine"><LineStyle><color>7fFF00FF</color><width>4</width></LineStyle><PolyStyle><color>7fffffff</color></PolyStyle></Style>
+    <Style id="greenLine"><LineStyle><color>7f00FF00</color><width>4</width></LineStyle><PolyStyle><color>7fffffff</color></PolyStyle></Style>
+    <Style id="magentaLine"><LineStyle><color>7fFF00FF</color><width>4</width></LineStyle><PolyStyle><color>7fffffff</color></PolyStyle></Style>
+    <Style id="orangeLine"><LineStyle><color>7f0066FF</color><width>4</width></LineStyle><PolyStyle><color>7fffffff</color></PolyStyle></Style>
+
+
+
+
+
+
+
+</Document></kml>
+
